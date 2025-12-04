@@ -573,7 +573,7 @@ To work locally, you first need to install these on your machine:
     ddev launch
     ```
 
-   DDEV uses the folder name as the project name. This command automatically opens your browser and navigates to `https://FOLDER-NAME.ddev.site/`.
+    DDEV uses the folder name as the project name. This command automatically opens your browser and navigates to `https://FOLDER-NAME.ddev.site/`.
 
 > [!TIP]
 >
