@@ -480,17 +480,13 @@ To work locally, you first need to install these on your machine:
 
    You can [download and install GitHub CLI](https://cli.github.com/) on your computer if you'd like. It could save you time to work on your GitHub workflow with GitHub CLI, particularly if you want to assist with code reviews.
 
+> [!TIP]
+>
+> If you'd rather watch a video on setting up the local environment, you can find the [short tutorial on YouTube](https://www.youtube.com/watch?v=Hnzp-aJ4NWA). Otherwise, you can follow the instructions provided in the next section.
+
 <!-- vale on -->
 
 #### Setting up local environment
-
-<!-- vale off -->
-
-> [!TIP]
->
-> If you prefer a video to guide you setting up the local environment, you can find the [short tutorial on YouTube](https://www.youtube.com/watch?v=Hnzp-aJ4NWA).
-
-<!-- vale on -->
 
 1. [Fork](#forking-the-repository) this repository to your own GitHub account.
 2. Go to your forked repository on GitHub.
